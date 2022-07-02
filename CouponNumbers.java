@@ -1,4 +1,5 @@
 package logical_programs;
+//Program to generate random numbers and to process distinct coupons
 
 public class CouponNumbers {
 public static void main(String[] args) {
